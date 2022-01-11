@@ -1,0 +1,10 @@
+.vscode
+ 
+node_modules
+
+*.txt
+*.out
+*.o 
+package-lock.json
+
+task.test.js
